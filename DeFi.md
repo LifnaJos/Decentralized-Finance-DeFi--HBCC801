@@ -23,7 +23,9 @@
 | 3. | Attendance Sheet | [HD-DeFi-Atten]()|
 
 ## Module - 1: Introduction to Centralized and decentralized finance (2 Hours)
-- Difference between Centralized and Decentralized Finance;Traditional Financial Institution- Banks :
+- Difference between Centralized and Decentralized Finance
+- Traditional Financial Institution- Banks
+  
   (1) Payment and Clearance systems,
   (2) Accessibility,
   (3) Centralization and Transparency
