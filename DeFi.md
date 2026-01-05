@@ -4,13 +4,6 @@
 - [HBCC601 : Blockchain Platform](https://github.com/LifnaJos/Blockchain-Platforms-HBCC601)
 - [HBCC701 : Blockchain Development](https://github.com/LifnaJos/Blockchain-Development-HBCC701)
 
-## Important Documents
-| No | Document Name | Document |
-|:-: |------------- | :--------: |
-| 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HBCC801-DeFi-Syllabus.pdf)|
-| 2. | Case Study Topics |  |
-| 3. | Attendance Sheet | [HD-DeFi-Atten]()|
-
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
@@ -21,6 +14,13 @@
 |   | b. MCQ  | 5 Marks | | | 
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | | |
+
+## Important Documents
+| No | Document Name | Document |
+|:-: |------------- | :--------: |
+| 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HBCC801-DeFi-Syllabus.pdf)|
+| 2. | Case Study Topics |  |
+| 3. | Attendance Sheet | [HD-DeFi-Atten]()|
 
 ## Module - 1: Introduction to Centralized and decentralized finance (2 Hours)
 - Difference between Centralized and Decentralized Finance;Traditional Financial Institution- Banks :
