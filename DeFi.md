@@ -1,6 +1,11 @@
-# Course : Decentralized Finance (DeFi) (HBCC801)
-  
+# Course : Decentralized Finance (DeFi) (HBCC801)  
 Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
+## Important Documents
+| No | Document Name | Document |
+|:-: |------------- | :--------: |
+| 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HBCC801-DeFi-Syllabus.pdf)|
+| 2. | Case Study Topics |  |
+| 3. | Attendance Sheet | [HD-DeFi-Atten]()|
 
 ## Evaluation Scheme
 | No | Rubrics | Marks | Document |
@@ -13,12 +18,7 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | | |
 
-## Important Documents
-| No | Document Name | Document |
-|:-: |------------- | :--------: |
-| 1. | Theory Syllabus | [Th-Syllabus]()|
-| 2. | Case Study Topics |  |
-| 3. | Attendance Sheet | [BD-Atten]()|
+
 
 ## Prerequisite:  Blockchain & Cryptocurrency, Blockchain Platform, Blockchain Development
 
