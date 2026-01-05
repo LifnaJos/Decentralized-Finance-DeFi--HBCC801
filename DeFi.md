@@ -22,7 +22,7 @@
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | | |
 
-## Module - 1: Introduction: Centralized and decentralized finance (2 Hours)
+## Module - 1: Introduction to Centralized and decentralized finance (2 Hours)
 - Difference between Centralized and Decentralized Finance;Traditional Financial Institution- Banks :
   (1) Payment and Clearance systems,
   (2) Accessibility,
