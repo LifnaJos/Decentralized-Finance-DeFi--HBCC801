@@ -1,5 +1,9 @@
 # Course : Decentralized Finance (DeFi) (HBCC801)  
-Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
+## Prerequisite:  
+- [HBCC501 : Blockchain & Cryptocurrency](https://github.com/LifnaJos/Bitcoin-and-Cryptocurrency-HBCC501)
+- [HBCC601 : Blockchain Platform](https://github.com/LifnaJos/Blockchain-Platforms-HBCC601)
+- [HBCC701 : Blockchain Development](https://github.com/LifnaJos/Blockchain-Development-HBCC701)
+
 ## Important Documents
 | No | Document Name | Document |
 |:-: |------------- | :--------: |
@@ -17,10 +21,6 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 |   | b. MCQ  | 5 Marks | | | 
 |   | c. Certification Courses | 5 / 10 Marks | | |
 |   | Total Marks | 100 Marks | | |
-
-
-
-## Prerequisite:  Blockchain & Cryptocurrency, Blockchain Platform, Blockchain Development
 
 ## Module - 1: Introduction: Centralized and decentralized finance (2 Hours)
 - Difference between Centralized and Decentralized Finance;Traditional Financial Institution- Banks :
@@ -109,3 +109,4 @@ The DeFi Ecosystem, Problems that DeFi Solves How Decentralized is DeFi? Defi ke
 
 ## Acknowledgements
 * This material was prepared as a part of the Honor/Minor Degree Course - **Decentralized Finance** offered by the **Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai)** to the Fourth Year Students of All Branches.
+* Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
