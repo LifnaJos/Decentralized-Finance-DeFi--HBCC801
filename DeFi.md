@@ -25,10 +25,9 @@
 ## Module - 1: Introduction to Centralized and decentralized finance (2 Hours)
 - Difference between Centralized and Decentralized Finance
 - Traditional Financial Institution- Banks
-  
-  (1) Payment and Clearance systems,
-  (2) Accessibility,
-  (3) Centralization and Transparency
+  - Payment and Clearance systems,
+  - Accessibility,
+  - Centralization and Transparency
 - Decentralized Finance Vs Traditional Finance
 
 #### Self-learning Topics: The Potential Impact of Decentralized Finance
