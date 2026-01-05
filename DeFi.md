@@ -16,14 +16,18 @@ Faculty Incharge : [Lifna C S](mailto:lifna.cs@ves.ac.in)
 ## Important Documents
 | No | Document Name | Document |
 |:-: |------------- | :--------: |
-| 1. | Theory Syllabus | [Th-Syllabus](https://drive.google.com/file/d/1bBEtWVrJf662BCbIyHgRapE03WfA1WOo/view?usp=sharing) |
+| 1. | Theory Syllabus | [Th-Syllabus]()|
 | 2. | Case Study Topics |  |
-| 3. | Attendance Sheet | [BD-Atten](https://docs.google.com/spreadsheets/d/1scI7Qm-ZvDRXMEmMsSCVtKqNtW9Gwmw8kiRrOQYqPOI/edit?usp=sharing) |
+| 3. | Attendance Sheet | [BD-Atten]()|
 
 ## Prerequisite:  Blockchain & Cryptocurrency, Blockchain Platform, Blockchain Development
 
 ## Module - 1: Introduction: Centralized and decentralized finance (2 Hours)
-Difference between Centralized and Decentralized Finance;Traditional Financial Institution- Banks : (1) Payment and Clearance systems, (2) Accessibility, (3) Centralization and Transparency; Decentralized Finance Vs Traditional Finance
+- Difference between Centralized and Decentralized Finance;Traditional Financial Institution- Banks :
+  (1) Payment and Clearance systems,
+  (2) Accessibility,
+  (3) Centralization and Transparency
+- Decentralized Finance Vs Traditional Finance
 
 #### Self-learning Topics: The Potential Impact of Decentralized Finance
 * Theory : 
@@ -31,23 +35,22 @@ Difference between Centralized and Decentralized Finance;Traditional Financial I
 * Online Materials :
 
 ## Module - 2: What is decentralized finance (defi)? (4 Hours)
-The DeFi Ecosystem, Problems that DeFi Solves How Decentralized is DeFi? Defi key Categories:- Stablecoins, Stable coin and pegging, Lending and Borrowing, Exchanges,
-Derivations, Fund Management, Lottery, Payments, Insurance 
+The DeFi Ecosystem, Problems that DeFi Solves How Decentralized is DeFi? Defi key Categories:- Stablecoins, Stable coin and pegging, Lending and Borrowing, Exchanges, Derivations, Fund Management, Lottery, Payments, Insurance 
 
 #### Self-learning Topics: How Decentralized Finance Could Make Investing More Accessible ?
 * Theory : 
 * YoutTube :
     
 ## Module - 3: DeFi Primitives and Business Models (9 Hours)
-DeFi Components: Blockchain Cryptocurrency The Smart Contract, Platform, Oracles, Stablecoins, Decentralized Applications
-DeFi Primitives: 
+1. DeFi Components: Blockchain Cryptocurrency The Smart Contract, Platform, Oracles, Stablecoins, Decentralized Applications
+2. DeFi Primitives: 
 - Transactions Fungible Token: Equity Tokens, Utility Tokens and Governance Tokens
 - NFT: NFT Standard, Multi-token standard
 - Custody Supply Adjustment: Burn-Reduce Supply, Mint-Increase Supply, Bonding Curve
 - Pricing Supply Incentives: Staking Rewards, Slashing, Direct Rewards and Keepers, Fees
 - Swap: Order Book Matching, Automated Market Makers, Collateralized Loans Flash Loans (Uncollateralized Loans)
-DeFi Key Metrics: Total Value Locked, Daily Active Users, Market Cap
-DeFi Major Business Models: Decentralized Currencies, Decentralized Payment Services, Decentralized fundraising, Decentralized Contracting.
+3. DeFi Key Metrics: Total Value Locked, Daily Active Users, Market Cap
+4. DeFi Major Business Models: Decentralized Currencies, Decentralized Payment Services, Decentralized fundraising, Decentralized Contracting.
 
 #### Self-learning Topics: Study any real time Business model.
 * Theory :  
@@ -55,26 +58,35 @@ DeFi Major Business Models: Decentralized Currencies, Decentralized Payment Serv
 * Online Materials :
     
 ## Module - 4: DeFi Architecture and EcoSystem (9 Hours)
-DeFi Architecture: 
+1. DeFi Architecture: 
 - Consumer Layer: Blockchains, CrossBlockchain networks, Oracles,
 - Digital Asset Layer: Cryptocurrencies,
 - Infrastructure Layer: Wallets and Asset Management, DEXes and Liquidity, Lending and Borrowing, Prediction Markets, Synthetic Assets, Insurance
-DeFi EcoSystem and Protocols: On-chain Asset Exchange, Loanable Fund Markets on-chain assets, Stablecoins, Portfolio Management, Derivatives, Privacy-preserving mixers 
-DeFi Risk and Challenges: Technical Risks, Usability Risks, Centralization Risks, Liquidity Risks, Regulation Risk
+2. DeFi EcoSystem and Protocols: On-chain Asset Exchange, Loanable Fund Markets on-chain assets, Stablecoins, Portfolio Management, Derivatives, Privacy-preserving mixers 
+3. DeFi Risk and Challenges: Technical Risks, Usability Risks, Centralization Risks, Liquidity Risks, Regulation Risk
 #### Self-learning Topics: Study of the Problems which are holding DeFi adoption back
 * Theory : 
 * Online Materials : 
 
-## Module - 5: 
+## Module - 5: DeFi Deep Dive (9 Hours)
+1. Maker DAO: Maker Protocol: Dai Stablecoins, Maker Vaults, Maker Protocol Auctions Maker Actors: Keepers, Price Oracles, Emergency Oracles, DAO Teams, Dai Savings Rate Dai Use case Benefits and Examples
+2. UniSwap: UniSwap Protocol Overview: How UniSwap Works, EcoSystem Participants, Smart Contracts UniSwap Core Concepts: Swaps, Pools, Flash Swaps, Oracles
+3. Compound: Compound Protocol: Supplying Assets, Borrowing Assets, Interest Rate Model Compound Implementation and Architecture: cToken Contracts, Interest Rate Mechanics, Borrowing, Liquidation, Price Feeds, Comptroller, Governance
+4. wBTC: Need for wBTC, Tokenization and common Issues wBTC, Implementation and Technology: Users, Custodian Wallet Setup, Minting, Burning wBTC Governance, wBTC vs Atomic Swaps, Fees, Legal Binding, Trust Model and Transparency 
 
-#### Self-learning Topics: 
+#### Self-learning Topics: MakerDAO Governance, UniSwap Governance Protocol Math, Compound Protocol Math
 * Theory:  
 * Online Materials:
     
-## Module - 6: 
+## Module - 6: Use Cases (4 Hours)
+1. Decentralized Exchanges
+2. Decentralized Stablecoins
+3. Decentralized Money Markets
+4. Decentralized Synthetix
+5. Decentralized Insurance
+6. Decentralized Autonomous Organization (DAO)
 
-#### Self-learning Topics: 
-
+#### Self-learning Topics: Stock Exchange Operations, Derivatives, Tether, Ampleforth, How to get stablecoins, Synthetix Network, Token, The Ongoing Impact of The DAO’s Rise and Fall, DAO Projects
 
 ## Case Study Report with Gihub Project Links (Academic Year 2025-26)
 | No | Student Name | Department | Topic |  Github Link for PPT |
