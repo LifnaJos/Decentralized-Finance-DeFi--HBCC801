@@ -30,7 +30,7 @@
   - Centralization and Transparency
 - Decentralized Finance Vs Traditional Finance
 #### Self-learning Topics: The Potential Impact of Decentralized Finance
-* Theory : [Introduction to CeFi & DeFi](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M1.pdf)
+* Theory : [Introduction to CeFi & DeFi](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M1%20(1).pdf)
 * YoutTube : [DeFi - The Future of Finance, Campbell et. al](https://www.youtube.com/watch?v=gvzTO27hYjA&list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm&pp=0gcJCbYEOCosWNin)
 * Online Materials :
   - [CeFi Vs DeFi - OSL Academy](https://www.osl.com/hk-en/academy/article/cefi-vs-defi-a-centralised-and-decentralised-finance-comparison)
