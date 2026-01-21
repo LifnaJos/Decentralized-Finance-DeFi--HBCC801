@@ -29,11 +29,10 @@
   - Accessibility,
   - Centralization and Transparency
 - Decentralized Finance Vs Traditional Finance
-
 #### Self-learning Topics: The Potential Impact of Decentralized Finance
-* Theory : 
-* YoutTube : 
-* Online Materials :
+* Theory : [Introduction to CeFi & DeFi]()
+* YoutTube : [DeFi - The Future of Finance, Campbell et. al](https://www.youtube.com/watch?v=gvzTO27hYjA&list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm&pp=0gcJCbYEOCosWNin)
+* Online Materials : 
 
 ## Module - 2: What is decentralized finance (defi)? (4 Hours)
 The DeFi Ecosystem, Problems that DeFi Solves How Decentralized is DeFi? Defi key Categories:- Stablecoins, Stable coin and pegging, Lending and Borrowing, Exchanges, Derivations, Fund Management, Lottery, Payments, Insurance 
