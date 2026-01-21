@@ -33,9 +33,9 @@
 * Theory : [Introduction to CeFi & DeFi](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M1.pdf)
 * YoutTube : [DeFi - The Future of Finance, Campbell et. al](https://www.youtube.com/watch?v=gvzTO27hYjA&list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm&pp=0gcJCbYEOCosWNin)
 * Online Materials :
-  - https://www.osl.com/hk-en/academy/article/cefi-vs-defi-a-centralised-and-decentralised-finance-comparison
-  - https://www.techtarget.com/whatis/feature/Decentralized-finance-vs-centralized-finance-Whats-the-difference#:~:text=There%20are%20two%20prevailing%20approaches,entire%20guide%20for%20FREE%20now!
-  - https://trondao.org/tronpedia/defi-vs-cefi-whats-the-difference
+  - [CeFi Vs DeFi - OSL Academy](https://www.osl.com/hk-en/academy/article/cefi-vs-defi-a-centralised-and-decentralised-finance-comparison)
+  - [Difference between DeFi and CeFi - TechTarget](https://www.techtarget.com/whatis/feature/Decentralized-finance-vs-centralized-finance-Whats-the-difference#:~:text=There%20are%20two%20prevailing%20approaches,entire%20guide%20for%20FREE%20now!)
+  - [DeFi Vs CeFi - Trondao](https://trondao.org/tronpedia/defi-vs-cefi-whats-the-difference)
 
 ## Module - 2: What is decentralized finance (defi)? (4 Hours)
 - The DeFi Ecosystem
