@@ -38,11 +38,22 @@
   - https://trondao.org/tronpedia/defi-vs-cefi-whats-the-difference
 
 ## Module - 2: What is decentralized finance (defi)? (4 Hours)
-The DeFi Ecosystem, Problems that DeFi Solves How Decentralized is DeFi? Defi key Categories:- Stablecoins, Stable coin and pegging, Lending and Borrowing, Exchanges, Derivations, Fund Management, Lottery, Payments, Insurance 
-
+- The DeFi Ecosystem
+- Problems that DeFi Solves
+- How Decentralized is DeFi?
+- Defi key Categories:-
+  -- Stablecoins,
+  -- Stable coin and pegging
+  -- Lending and Borrowing
+  -- Exchanges
+  -- Derivations
+  -- Fund Management
+  -- Lottery
+  -- Payments
+  -- Insurance 
 #### Self-learning Topics: How Decentralized Finance Could Make Investing More Accessible ?
-* Theory : 
-* YoutTube :
+* Theory : [What is DeFi?]()
+* YoutTube : [DeFi - The Future of Finance, Campbell et. al](https://www.youtube.com/watch?v=gvzTO27hYjA&list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm&pp=0gcJCbYEOCosWNin)
     
 ## Module - 3: DeFi Primitives and Business Models (9 Hours)
 1. DeFi Components: Blockchain Cryptocurrency The Smart Contract, Platform, Oracles, Stablecoins, Decentralized Applications
