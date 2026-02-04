@@ -8,18 +8,18 @@
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
 | 1 | End Semester Exam | 60 Marks | |
-| 2 | Internal Assessment | 20 Marks |  | |
+| 2 | Internal Assessment | 20 Marks |  |
 | 3 | Continuous Assessment | 20 Marks | |
-|   | a. Case Study | 10 Marks |  |  |
-|   | b. MCQ  | 5 Marks | | | 
-|   | c. Certification Courses | 5 / 10 Marks | | |
-|   | Total Marks | 100 Marks | | |
+|   | a. Case Study | 10 Marks |  |  
+|   | b. MCQ  | 5 Marks | | 
+|   | c. Certification Courses | 5 / 10 Marks | | 
+|   | Total Marks | 100 Marks | | 
 
 ## Important Documents
 | No | Document Name | Document |
 |:-: |------------- | :--------: |
 | 1. | Theory Syllabus | [Th-Syllabus](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HBCC801-DeFi-Syllabus.pdf)|
-| 2. | Case Study Topics |  |
+| 2. | Case Study Topics | [Topics](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/DeFi-CaseStudyTopics.md) |
 | 3. | Attendance Sheet | [HD-DeFi-Atten]()|
 
 ## Module - 1: Introduction to Centralized and decentralized finance (2 Hours)
