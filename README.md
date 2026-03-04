@@ -45,7 +45,7 @@
   - Stablecoins,Stable coin and pegging, Lending and Borrowing, Exchanges
   - Derivations, Fund Management, Lottery, Payments, Insurance 
 #### Self-learning Topics: How Decentralized Finance Could Make Investing More Accessible ?
-* Theory : [What is DeFi?]()
+* Theory : [What is DeFi?](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M2-1.pdf)
 * YoutTube : [DeFi - The Future of Finance, Campbell et. al](https://www.youtube.com/watch?v=gvzTO27hYjA&list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm&pp=0gcJCbYEOCosWNin)
     
 ## Module - 3: DeFi Primitives and Business Models (9 Hours)
