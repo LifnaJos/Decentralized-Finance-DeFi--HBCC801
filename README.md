@@ -60,9 +60,8 @@
 4. DeFi Major Business Models: Decentralized Currencies, Decentralized Payment Services, Decentralized fundraising, Decentralized Contracting.
 
 #### Self-learning Topics: Study any real time Business model.
-* Theory :  
-* YoutTube :   
-* Online Materials :
+* Theory :  [PPT-Theory](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M3.pdf)
+* YoutTube :  [DeFi - The Future of Finance, Campbell et. al](https://www.youtube.com/watch?v=gvzTO27hYjA&list=PLE1Vu6ctbqa61FqJmPDnoPzDqrnyILHRm&pp=0gcJCbYEOCosWNin)
     
 ## Module - 4: DeFi Architecture and EcoSystem (9 Hours)
 1. DeFi Architecture: 
