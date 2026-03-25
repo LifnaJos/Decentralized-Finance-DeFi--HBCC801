@@ -8,7 +8,7 @@
 | No | Rubrics | Marks | Document |
 | :--: | ------------------ | :----: | :--------:|
 | 1 | End Semester Exam | 60 Marks | |
-| 2 | Internal Assessment | 20 Marks |  |
+| 2 | Internal Assessment | 20 Marks | [MT-Paper-2025-26]()<br> [MT-Paper-2025-26-Sol](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/MT-QP-HBCC801-DeFi-25-26-Sol.pdf) |
 | 3 | Continuous Assessment | 20 Marks | |
 |   | a. Case Study | 10 Marks |  |  
 |   | b. MCQ  | 5 Marks | | 
