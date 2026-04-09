@@ -1,4 +1,4 @@
-### *Assignemt - 2*
+### *Assignment - 2*
 1. Explain the working of a stock exchange with reference to order matching and settlement.
 2. Differentiate between primary and secondary markets.
 3. What are the key functions of stock brokers and clearing houses?
