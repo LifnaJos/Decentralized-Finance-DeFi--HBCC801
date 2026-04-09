@@ -107,8 +107,7 @@
 | 5. | NANDANWAR SHLOK | Artificial Intelligence & Data Science Engineering | DeFi-UX-Failure-Why-Smart-Contracts-Are-Still-Not-User-Friendly | [Github-Link](https://github.com/Shlok-tech/Blockchain_CA1_Sem_8/blob/main/DeFi-UX-Failure-Why-Smart-Contracts-Are-Still-Not-User-Friendly-2.pptx.pdf.pdf) |
 | 6. | NAWANDER SANSKRUTI | Artificial Intelligence & Data Science Engineering | The Next Defi Bubble-Can We Predict It? | [Github-Link](https://github.com/sanskruti-nawander/DEFI-SEM8-CASE-STUDY) |
 | 7. | SAHU SUJAL | Artificial Intelligence & Data Science Engineering |DeFi_in_emerging_economies | [Github-Link](https://github.com/SujalSahu2610/BlockchainSem8/blob/main/DeFi_in_emerging_economies.pptx) |
-| 8. | SAYYED MAAZ | Artificial Intelligence & Data Science Engineering | AI-DEFI: The Rise of Autonomous Financial Agents
- | [Github-Link](https://github.com/sayyedmaaz23/Sem-8_Defi_CA1/blob/main/Blockchain_Casestudy_CA.pptx) |
+| 8. | SAYYED MAAZ | Artificial Intelligence & Data Science Engineering | AI-DEFI: The Rise of Autonomous Financial Agents | [Github-Link](https://github.com/sayyedmaaz23/Sem-8_Defi_CA1/blob/main/Blockchain_Casestudy_CA.pptx) |
 | 9. | SHAIKH MOHAMMED ARSHAD | Artificial Intelligence & Data Science Engineering | DEFI REGULATION: GLOBAL RESPONSES COMPARED | [Github-Link](https://github.com/Arshad-Shaikh-0802/BlockChain-Sem8/blob/main/BlockChain_Presentation.pptx) |
 | 10 | VIJAY ESHAN | Computer Engineering | DeFi-and-Climate-Impact-Opportunities-Risks-and-Sustainable-Finance | [Github-Link](https://github.com/eshanvijay/DeFi-and-Climate-Impact-Opportunities-Risks-and-Sustainable-Finance/blob/main/DeFi-and-Climate-Impact-Opportunities-Risks-and-Sustainable-Finance.pdf) |
 | 11 | Gharat Aniruddha | Electronics & Telecommunications Engineering | Tokenomics-gone-wrong-when-incentives-backfire | [Github-Link](https://github.com/ANI-MAZING/Tokenomics-gone-wrong-when-incentives-backfire/blob/main/Tokenomics%20in%20Crypto.pdf) |
