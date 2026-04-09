@@ -95,24 +95,27 @@
 
 #### Self-learning Topics: Stock Exchange Operations, Derivatives, Tether, Ampleforth, How to get stablecoins, Synthetix Network, Token, The Ongoing Impact of The DAO’s Rise and Fall, DAO Projects
 
+
+
 ## Case Study Report with Gihub Project Links (Academic Year 2025-26)
 | No | Student Name | Department | Topic |  Github Link for PPT |
 |:-: |------------- | :--------: | :------------: | :----------: |
-| 1. | BHATTACHARJEE BINAYAK | Electronics & Computer Science Engineering |  |  |
-| 2. | JADHAV RITALI | Electronics & Computer Science Engineering |  |  |
-| 3. | PHADTARE ATHARVA | Electronics & Computer Science Engineering |  |  |
-| 4. | JADHAV SANIKA | Artificial Intelligence & Data Science Engineering |  |  |
-| 5. | NANDANWAR SHLOK | Artificial Intelligence & Data Science Engineering |  |  |
-| 6. | NAWANDER SANSKRUTI | Artificial Intelligence & Data Science Engineering |  |  |
-| 7. | SAHU SUJAL | Artificial Intelligence & Data Science Engineering | | |
-| 8. | SAYYED MAAZ | Artificial Intelligence & Data Science Engineering | | |
-| 9. | SHAIKH MOHAMMED ARSHAD | Artificial Intelligence & Data Science Engineering | | |
-| 10 | VIJAY ESHAN | Computer Engineering | DeFi Token Staking & Swap Platform | | |
-| 11 | Gharat Aniruddha | Electronics & Telecommunications Engineering | | |
-| 12 | PANDA SLESHA | Electronics & Telecommunications Engineering |  | |
-| 13 | DHAGE HARIOM  | Electronics & Telecommunications Engineering |  |  |
-| 14 | TULASI SUSHANT | Information Technology Engineering | | |
-| 15 | SHINDE AKANKSHA | Information Technology Engineering | | |
+| 1. | BHATTACHARJEE BINAYAK | Electronics & Computer Science Engineering | Layer-2-Solutions-and-DeFi-Scalability |  [Github-Link](https://github.com/ZenMachina16/DeFi-Scalability-and-Layer-2-Solution/blob/main/Layer-2-Solutions-and-DeFi-Scalability.pdf)|
+| 2. | JADHAV RITALI | Electronics & Computer Science Engineering | The Collapse of Terra-LUNA: What Broke in Algorithmic Stablecoins? | [Github-Link](https://github.com/ritali-jadhav/blockchain-8-sem-ppt/blob/main/Countinuous%20A1%20(Sem%208%20Blockchain%20Defi%20(Minors%20)).pdf) |
+| 3. | PHADTARE ATHARVA | Electronics & Computer Science Engineering | Social Attacks in DeFi - Governance, Phising and Rug Pulls | [Github-Link](https://github.com/atharvamp04/Honours_Blockchain/blob/main/Blockchain_CA_PPT.pdf) |
+| 4. | JADHAV SANIKA | Artificial Intelligence & Data Science Engineering |  DeFi Liquidity Crises: When Markets Freeze | [Github-Link](https://github.com/AKINAS05/DeFi_CaseStudy_Sem8_Blockchain/blob/main/Defi_presentation%20(1).pptx) |
+| 5. | NANDANWAR SHLOK | Artificial Intelligence & Data Science Engineering | DeFi-UX-Failure-Why-Smart-Contracts-Are-Still-Not-User-Friendly | [Github-Link](https://github.com/Shlok-tech/Blockchain_CA1_Sem_8/blob/main/DeFi-UX-Failure-Why-Smart-Contracts-Are-Still-Not-User-Friendly-2.pptx.pdf.pdf) |
+| 6. | NAWANDER SANSKRUTI | Artificial Intelligence & Data Science Engineering | The Next Defi Bubble-Can We Predict It? | [Github-Link](https://github.com/sanskruti-nawander/DEFI-SEM8-CASE-STUDY) |
+| 7. | SAHU SUJAL | Artificial Intelligence & Data Science Engineering |DeFi_in_emerging_economies | [Github-Link](https://github.com/SujalSahu2610/BlockchainSem8/blob/main/DeFi_in_emerging_economies.pptx) |
+| 8. | SAYYED MAAZ | Artificial Intelligence & Data Science Engineering | AI+DEFI: The Rise of Autonomous Financial Agents
+ | [Github-Link](https://github.com/sayyedmaaz23/Sem-8_Defi_CA1/blob/main/Blockchain_Casestudy_CA.pptx) |
+| 9. | SHAIKH MOHAMMED ARSHAD | Artificial Intelligence & Data Science Engineering | DEFI REGULATION: GLOBAL RESPONSES COMPARED | [Github-Link](https://github.com/Arshad-Shaikh-0802/BlockChain-Sem8/blob/main/BlockChain_Presentation.pptx) |
+| 10 | VIJAY ESHAN | Computer Engineering | DeFi Token Staking & Swap Platform | DeFi-and-Climate-Impact-Opportunities-Risks-and-Sustainable-Finance | [Github-Link](https://github.com/eshanvijay/DeFi-and-Climate-Impact-Opportunities-Risks-and-Sustainable-Finance/blob/main/DeFi-and-Climate-Impact-Opportunities-Risks-and-Sustainable-Finance.pdf) |
+| 11 | Gharat Aniruddha | Electronics & Telecommunications Engineering | Tokenomics-gone-wrong-when-incentives-backfire | [Github-Link](https://github.com/ANI-MAZING/Tokenomics-gone-wrong-when-incentives-backfire/blob/main/Tokenomics%20in%20Crypto.pdf) |
+| 12 | PANDA SLESHA | Electronics & Telecommunications Engineering | DeFi Exploits and Hacks: Are Bugs the New Bank Robberies? | [Github-Link](https://github.com/stackqueen/BLOCKCHAIN_SEM8_CA--DEFI_EXPLOITS_AND_HACKS_PPT/blob/main/DeFi%20Hacks%20%26%20Exploits.pdf) |
+| 13 | DHAGE HARIOM  | Electronics & Telecommunications Engineering | DeFi-as-Financial-Infrastructure-Not-Applications | [Github-Link](https://github.com/HariomDhage/blockchain_ppt/blob/main/DeFi-as-Financial-Infrastructure-Not-Applications.pptx)  |
+| 14 | TULASI SUSHANT | Information Technology Engineering | The Privacy Compliance Paradox in DeFi | [Github-Link](https://github.com/Sushant0412/Blockchain-Sem8-CA1/blob/main/The%20Privacy%20Compliance%20Paradox%20in%20DeFi_compressed%20(1).pdf)|
+| 15 | SHINDE AKANKSHA | Information Technology Engineering |  DeFi and Financial Crime- Myth vs Reality | [Github-Link](https://github.com/AkankshaShinde23/Sem8/blob/main/Blockchain%20CA1%20%20PPT%20DeFi%20and%20Financial%20Crime-%20Myth%20vs%20Reality.pdf) |
 
 ## Acknowledgements
 * This material was prepared as a part of the Honor/Minor Degree Course - **Decentralized Finance** offered by the **Department of Computer Engineering, (VES Institute of Technology - An Autonomous Institute, Affiliated to the University of Mumbai)** to the Fourth Year Students of All Branches.
