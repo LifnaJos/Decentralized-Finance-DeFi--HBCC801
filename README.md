@@ -72,8 +72,7 @@
 2. DeFi EcoSystem and Protocols: On-chain Asset Exchange, Loanable Fund Markets on-chain assets, Stablecoins, Portfolio Management, Derivatives, Privacy-preserving mixers 
 3. DeFi Risk and Challenges: Technical Risks, Usability Risks, Centralization Risks, Liquidity Risks, Regulation Risk
 #### Self-learning Topics: Study of the Problems which are holding DeFi adoption back
-* Theory : 
-* Online Materials : 
+* Theory : [Theory-PPT](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M4.pdf)
 
 ## Module - 5: DeFi Deep Dive (9 Hours)
 1. Maker DAO: Maker Protocol: Dai Stablecoins, Maker Vaults, Maker Protocol Auctions Maker Actors: Keepers, Price Oracles, Emergency Oracles, DAO Teams, Dai Savings Rate Dai Use case Benefits and Examples
