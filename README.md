@@ -10,9 +10,10 @@
 | 1 | End Semester Exam | 60 Marks | |
 | 2 | Internal Assessment | 20 Marks | [MT-Paper-2025-26](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/MT-QP-HBCC801-DeFi-25-26.pdf)<br> [MT-Paper-2025-26-Sol](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/MT-QP-HBCC801-DeFi-25-26-Sol.pdf) |
 | 3 | Continuous Assessment | 20 Marks | |
-|   | a. Case Study | 10 Marks |  |  
-|   | b. MCQ  | 5 Marks | | 
-|   | c. Certification Courses | 5 / 10 Marks | | 
+| a.  | Case Study | 10 Marks |  |  
+| b.  | MCQ-1 <br> MCQ-2  | 5 Marks each | 5th March 2026 (Modules 1 to 3) <br> 22nd April 2026  (Modules 4 to 6) | 
+| c.  | Certification Courses | 5 / 10 Marks | | 
+| 4 | Indirect Assessment | 10 Marks | Case Study Topic - Module 6 |
 |   | Total Marks | 100 Marks | | 
 
 ## Important Documents
