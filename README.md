@@ -23,6 +23,7 @@
 | 2. | Case Study Topics | [Topics](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/DeFi-CaseStudyTopics.md) |
 | 3. | Attendance Sheet | [HD-DeFi-Atten]()|
 | 4. | Tutotial on Numericals | [Tutorial](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/Tutorial-Numericals.md#tutorial-questions-2025-26) |
+| 5. | Text Books | [How to DeFi]() <br> [DeFi the Future of Finance]() |
 
 ## Module - 1: Introduction to Centralized and decentralized finance (2 Hours)
 - Difference between Centralized and Decentralized Finance
