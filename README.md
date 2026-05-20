@@ -83,8 +83,8 @@
 4. wBTC: Need for wBTC, Tokenization and common Issues wBTC, Implementation and Technology: Users, Custodian Wallet Setup, Minting, Burning wBTC Governance, wBTC vs Atomic Swaps, Fees, Legal Binding, Trust Model and Transparency
 
 * [Theory PPT-Part-1](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M5-Part1.pdf)
-* [Theory PPT-Part-2a]()
-* [Theory PPT-Part-2b]()
+* [Theory PPT-Part-2a](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M5-Part2a.pdf)
+* [Theory PPT-Part-2b](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M5-Part2b.pdf)
 
 #### Self-learning Topics: MakerDAO Governance, UniSwap Governance Protocol Math, Compound Protocol Math
 * Theory:  
