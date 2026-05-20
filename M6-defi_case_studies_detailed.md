@@ -7,35 +7,35 @@
 
 **c. Avoiding KYC Restrictions** : A user in a restricted country cannot complete KYC on centralized exchanges, so they use a DEX to trade freely without identity verification.
 
-## 2. [Decentralized Stablecoins]()
+## 2. [Decentralized Stablecoins](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M6-defi_case_studies_detailed.md#2-decentralized-stablecoins-1)
 **a. Protection from Volatility** : A freelancer earning in crypto converts earnings into a stablecoin like DAI to avoid sudden price drops.
 
 **b. Cross-Border Payments** : A business sends payments to an overseas supplier using stablecoins to avoid currency conversion delays and high fees.
 
 **c. Savings in Stable Assets** : A user stores funds in stablecoins to preserve value instead of holding volatile cryptocurrencies like Bitcoin.
 
-## 3. [Decentralized Money Markets]()
+## 3. [Decentralized Money Markets](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M6-defi_case_studies_detailed.md#3-decentralized-money-markets-1)
 **a. Earning Interest on Crypto** : A user deposits USDC into a DeFi lending platform like Aave and earns interest without a bank.
 
 **b. Crypto-Backed Loans** : A trader locks ETH as collateral and borrows USDT to invest elsewhere without selling their ETH.
 
 **c. Emergency Liquidity** : A small business owner uses crypto holdings as collateral to get instant loans instead of waiting for bank approval.
 
-## 4. [Decentralized Synthetix (Synthetic Assets)]()
+## 4. [Decentralized Synthetix (Synthetic Assets)](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M6-defi_case_studies_detailed.md#4-decentralized-synthetix-synthetic-assets-1)
 **a. Trading Real-World Assets** : A user gains exposure to gold prices through synthetic tokens without actually buying physical gold.
 
 **b. Stock Market Access** : A person in a country with restricted stock markets trades synthetic Tesla shares on blockchain platforms.
 
 **c. Hedging Against Risk** : An investor hedges crypto losses by investing in synthetic USD or commodities during market downturns.
 
-## 5. [Decentralized Insurance]()
+## 5. [Decentralized Insurance](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M6-defi_case_studies_detailed.md#5-decentralized-insurance-1)
 **a. Smart Contract Failure Protection** : A user insures funds deposited in a DeFi platform against hacks or bugs.
 
 **b. Flight Delay Insurance** : A traveler buys decentralized insurance that automatically pays out if their flight is delayed.
 
 **c. Crop Insurance for Farmers** : A farmer receives automatic compensation if rainfall data shows drought conditions.
 
-## 6. [Decentralized Autonomous Organization (DAO)]()
+## 6. [Decentralized Autonomous Organization (DAO)](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M6-defi_case_studies_detailed.md#6-decentralized-autonomous-organizations-dao)
 **a. Community Governance** : Token holders vote on decisions like protocol upgrades in a DeFi platform.
 
 **b. Crowdfunded Investments** : A group of investors pools money in a DAO to invest in startups collectively.
