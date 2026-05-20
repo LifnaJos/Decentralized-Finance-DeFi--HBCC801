@@ -1,5 +1,7 @@
 # Module - 6 : Case Studies on DeFi Applications
 
+**Note : For each case study try to incorporate a diagram**
+
 ## 1. [Decentralized Exchanges (DEX)](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M6-defi_case_studies_detailed.md#1-decentralized-exchanges-dex-1)
 - **a. Peer-to-Peer Crypto Trading**
 - **b. Access to Global Tokens** 
