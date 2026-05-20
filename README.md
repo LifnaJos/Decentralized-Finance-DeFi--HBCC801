@@ -80,7 +80,11 @@
 1. Maker DAO: Maker Protocol: Dai Stablecoins, Maker Vaults, Maker Protocol Auctions Maker Actors: Keepers, Price Oracles, Emergency Oracles, DAO Teams, Dai Savings Rate Dai Use case Benefits and Examples
 2. UniSwap: UniSwap Protocol Overview: How UniSwap Works, EcoSystem Participants, Smart Contracts UniSwap Core Concepts: Swaps, Pools, Flash Swaps, Oracles
 3. Compound: Compound Protocol: Supplying Assets, Borrowing Assets, Interest Rate Model Compound Implementation and Architecture: cToken Contracts, Interest Rate Mechanics, Borrowing, Liquidation, Price Feeds, Comptroller, Governance
-4. wBTC: Need for wBTC, Tokenization and common Issues wBTC, Implementation and Technology: Users, Custodian Wallet Setup, Minting, Burning wBTC Governance, wBTC vs Atomic Swaps, Fees, Legal Binding, Trust Model and Transparency 
+4. wBTC: Need for wBTC, Tokenization and common Issues wBTC, Implementation and Technology: Users, Custodian Wallet Setup, Minting, Burning wBTC Governance, wBTC vs Atomic Swaps, Fees, Legal Binding, Trust Model and Transparency
+
+* [Theory PPT-Part-1](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/HD-Sem8-DeFi-M5-Part1.pdf)
+* [Theory PPT-Part-2a]()
+* [Theory PPT-Part-2b]()
 
 #### Self-learning Topics: MakerDAO Governance, UniSwap Governance Protocol Math, Compound Protocol Math
 * Theory:  
