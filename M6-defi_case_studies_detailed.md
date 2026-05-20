@@ -1,6 +1,6 @@
 # Detailed Case Studies on DeFi Applications
 
-## 1. [Decentralized Exchanges (DEX)]()
+## 1. [Decentralized Exchanges (DEX)](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/M6-defi_case_studies_detailed.md#1-decentralized-exchanges-dex-1)
 **a. Peer-to-Peer Crypto Trading** : A student in India wants to swap ETH for USDT without using a bank or centralized exchange. They use a DEX like Uniswap to trade directly from their wallet.
 
 **b. Access to Global Tokens** : An investor wants to buy a newly launched token not listed on centralized exchanges. They use a DEX to access it instantly.
