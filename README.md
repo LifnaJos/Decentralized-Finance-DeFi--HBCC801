@@ -100,6 +100,7 @@
 
 #### Self-learning Topics: Stock Exchange Operations, Derivatives, Tether, Ampleforth, How to get stablecoins, Synthetix Network, Token, The Ongoing Impact of The DAO’s Rise and Fall, DAO Projects
 
+* [Theory](https://github.com/LifnaJos/Decentralized-Finance-DeFi--HBCC801/blob/main/defi_case_studies_detailed.md)
 
 
 ## Case Study Report with Gihub Project Links (Academic Year 2025-26)
